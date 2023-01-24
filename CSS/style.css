@@ -1,0 +1,77 @@
+body {
+    background-image: url(/images/Background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+nav ul li {
+    display: inline-block;
+}
+nav ul li a {
+    float: left;
+    color:#333; 
+    display: inline-block;
+    padding: 40px;
+    margin: 10px;
+}
+
+h1 {
+    text-align: center;
+    font-weight: 900;
+    font-size: 50px;
+}
+
+h2 {
+    text-align: center;
+    font-weight: 500;
+    font-size: 30px;
+    margin-top: 0;   
+}
+button {
+    background-color: black;
+    padding: 5px 10px;
+    color: white;
+    float: right;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+.Aboutme {
+    background-color: #FFFBF5; 
+    height: 800px;
+    background-size: cover;
+    border-image: 1px solid black; 
+}
+
+.Content {
+    float: left;
+    margin-left: 100px;
+    margin: 80px;
+    width: 40%;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.Work {
+    background-color: white;
+    height: 700px;
+    background-size: cover;
+}
+.card {
+    display: inline-block;
+    width: 30%;
+}
+footer {
+
+background-color: #333;
+background-size: cover;
+height: 300px;
+}
+
+h4 {
+    color: white;
+    font-weight: 300;
+    text-align: center;
+    font-size: 30px;
+    padding: 30px;
+}
+
